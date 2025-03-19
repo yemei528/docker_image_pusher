@@ -1,4 +1,4 @@
 # 思源笔记免登录版本
 apkdv/siyuan-unlock
 # Minio是一款兼容Amazon S3 API的高性能的对象存储服务器
-minio/minio
+minio/minio:RELEASE.2023-10-25T06-33-25Z
